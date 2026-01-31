@@ -49,27 +49,26 @@ inurl: This operator allows you to search for pages that contain specific text w
 <img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/e0830d0f-655a-497d-85b4-fce402e63b1a" />
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/d4c3d35f-4919-4a55-a0cb-180e2879eef7" />
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+<img width="1648" height="876" alt="image" src="https://github.com/user-attachments/assets/7c5edd87-a735-4f8d-ae25-219c08d03b31" />
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
+<img width="1802" height="692" alt="image" src="https://github.com/user-attachments/assets/f3752905-7aa2-4316-bdb9-8b9244cbacdb" />
  
-#DNS Enumeration
+# DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-
-
-
-
-
+<img width="955" height="185" alt="image" src="https://github.com/user-attachments/assets/8495a58b-7a85-4a53-a09e-5c7170154cdc" />
 
 
 ##dnsenum
@@ -86,9 +85,12 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
+<img width="944" height="283" alt="image" src="https://github.com/user-attachments/assets/3cd3cb95-15f9-42b3-9678-a63f75443e10" />
+
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+<img width="954" height="338" alt="image" src="https://github.com/user-attachments/assets/f98029a0-6a04-4249-8339-84f9b79b1dcc" />
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
@@ -96,12 +98,12 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 select any username in the first column of the above file and check the same
 
 
-#Telnet for smtp enumeration
+# Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output
   
   
 

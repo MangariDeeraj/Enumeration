@@ -42,8 +42,11 @@ Following searches for pdf file in the domain  tourism.ap.gov.in
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
+<img width="1904" height="868" alt="image" src="https://github.com/user-attachments/assets/6229a664-9cd6-48a7-afed-1cfe22b9e0ad" />
+
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/e0830d0f-655a-497d-85b4-fce402e63b1a" />
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 

@@ -97,6 +97,9 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 
+<img width="716" height="397" alt="image" src="https://github.com/user-attachments/assets/21026773-c7f2-4656-a48e-0334f940cf21" />
+
+
 
 # Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25

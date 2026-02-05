@@ -49,7 +49,7 @@ inurl: This operator allows you to search for pages that contain specific text w
 <img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/e0830d0f-655a-497d-85b4-fce402e63b1a" />
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
-<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/d4c3d35f-4919-4a55-a0cb-180e2879eef7" />
+<img width="1914" height="869" alt="image" src="https://github.com/user-attachments/assets/43d29823-0ee1-484a-a63b-3bc44d939d42" />
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 <img width="1648" height="876" alt="image" src="https://github.com/user-attachments/assets/7c5edd87-a735-4f8d-ae25-219c08d03b31" />

@@ -104,7 +104,7 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ## Output
-  
+<img width="1249" height="457" alt="image" src="https://github.com/user-attachments/assets/d1c0ce12-da3b-4021-a870-16dcae90f732" />
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -113,6 +113,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+<img width="936" height="167" alt="image" src="https://github.com/user-attachments/assets/dc662551-0942-4e0b-9577-c3426ce528ac" />
+
 
 
 ## RESULT:
